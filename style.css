@@ -1,0 +1,16 @@
+.forma {
+    height: 50px;
+    width: 50px;
+    
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.joao {
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
